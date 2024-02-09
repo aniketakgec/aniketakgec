@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">A passionate Backend developer who is just trying to how large scale distributed systems are designed</h3>
+<h3 align="center">A passionate Backend developer who is just trying to explore how large scale distributed systems are designed</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketakgec&label=Profile%20views&color=0e75b6&style=flat" alt="aniketakgec" /> </p>
 
