@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms,Statistics & Probability**
 
-- 💬 Ask me about **Algorithms, Data Structures, Golang, Concurrency and how to keep yourself about latest changes in tech**
+- 💬 Ask me about **Algorithms, Data Structures, Golang, Concurrency and how to keep yourself updated about latest changes in tech**
 
 - 📫 How to reach me **aniketpandey353@gmail.com**
 
